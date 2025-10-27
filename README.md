@@ -6,4 +6,4 @@ I’m eager to join a product team where I can contribute, learn from experience
 
 ## 🛠️ Tech Stack
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,tailwind,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,tailwind,vite,figma)](https://skillicons.dev)<br/>
